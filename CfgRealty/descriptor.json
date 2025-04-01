@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "925d7d17-6fa1-4702-af63-c9949eb9e363",
+    "Name": "CfgRealty",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/CfgRealty.csproj",
+    "DependsOn": []
+  }
+}
